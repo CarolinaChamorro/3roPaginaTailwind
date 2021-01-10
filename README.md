@@ -1,2 +1,2 @@
 # 3roPaginaTailwind
-Replicación de una pagina web con ReacjJS
+Replicación de una pagina web con ReactJS
