@@ -1,0 +1,19 @@
+{
+  "name": "paginaresponsive",
+  "version": "1.0.0",
+  "description": "Replicación de una pagina web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarolinaChamorro/3roPaginaTailwind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarolinaChamorro/3roPaginaTailwind/issues"
+  },
+  "homepage": "https://github.com/CarolinaChamorro/3roPaginaTailwind#readme"
+}
